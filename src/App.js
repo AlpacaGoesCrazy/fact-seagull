@@ -1,7 +1,7 @@
 import React, { useState, useRef } from 'react';
+import Music from './components/Music'
 import './App.css';
 import img from './media/animation.gif'
-import audio from './media/sad_loop.mp3'
 import darkness from './data/darkness.json'
 import facts from './data/facts.json'
 
@@ -31,9 +31,7 @@ function App() {
       <p>Fact Seagull says:</p>
       <img src={img} alt="seagull"/>
       <p className="Fact">{fact}</p>
-      <audio autoPlay loop>
-        <source src={audio} type="audio/mpeg"/>
-      </audio> 
+      <Music/>
     </div>
   );
 }

@@ -5,15 +5,11 @@
 
 body {
   margin: 0;
+  height: 100vh;
+  position: relative;
 }
 
 p {
   margin: 0;
   margin-bottom: 4px;
-}
-
-img {
-    float: left;
-    margin-right: 10px;
-    width: 80px;
 }

@@ -5,3 +5,9 @@
   padding-top: 20vh;
   margin: auto;
 }
+
+.App > img {
+    float: left;
+    margin-right: 10px;
+    width: 80px;
+}
