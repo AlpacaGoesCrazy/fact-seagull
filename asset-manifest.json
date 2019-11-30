@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/fact-seagull/static/css/main.8b00d115.chunk.css",
+    "main.js": "/fact-seagull/static/js/main.18314a5c.chunk.js",
+    "main.js.map": "/fact-seagull/static/js/main.18314a5c.chunk.js.map",
+    "runtime-main.js": "/fact-seagull/static/js/runtime-main.ecbef938.js",
+    "runtime-main.js.map": "/fact-seagull/static/js/runtime-main.ecbef938.js.map",
+    "static/js/2.c919ac89.chunk.js": "/fact-seagull/static/js/2.c919ac89.chunk.js",
+    "static/js/2.c919ac89.chunk.js.map": "/fact-seagull/static/js/2.c919ac89.chunk.js.map",
+    "index.html": "/fact-seagull/index.html",
+    "precache-manifest.8e7fbdaf1485469fd3f82609e8d66f02.js": "/fact-seagull/precache-manifest.8e7fbdaf1485469fd3f82609e8d66f02.js",
+    "service-worker.js": "/fact-seagull/service-worker.js",
+    "static/css/main.8b00d115.chunk.css.map": "/fact-seagull/static/css/main.8b00d115.chunk.css.map",
+    "static/media/index.css": "/fact-seagull/static/media/Apple-Kid.f0a90afd.woff",
+    "static/media/sad_loop.mp3": "/fact-seagull/static/media/sad_loop.93c9ba49.mp3"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ecbef938.js",
+    "static/js/2.c919ac89.chunk.js",
+    "static/css/main.8b00d115.chunk.css",
+    "static/js/main.18314a5c.chunk.js"
+  ]
+}
