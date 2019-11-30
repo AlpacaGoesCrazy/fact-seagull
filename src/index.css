@@ -1,6 +1,6 @@
 @font-face {
   font-family: "Apple Kid";
-  src: url("./media/apple_kid.ttf");
+  src: url("./media/Apple-Kid.woff"), url("./media/Apple-Kid.ttf");
 }
 
 body {
@@ -8,12 +8,12 @@ body {
 }
 
 p {
- margin: 0;
- margin-bottom: 4px;
+  margin: 0;
+  margin-bottom: 4px;
 }
 
 img {
-	float: left;
-	margin-right: 10px;
-	width: 80px;
+    float: left;
+    margin-right: 10px;
+    width: 80px;
 }
