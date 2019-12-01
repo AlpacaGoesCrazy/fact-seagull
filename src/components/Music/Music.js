@@ -1,4 +1,4 @@
-import React, { useState, useRef, memo } from 'react';
+import React, { useState, useRef, memo } from 'react'
 import './Music.css'
 import audio from './sad_loop.mp3'
 import speakerOff from './speaker-off.png'
@@ -30,7 +30,7 @@ const Music = memo(function Music() {
         <source src={audio} type="audio/mpeg"/>
       </audio>
     </div>
-  );
-});
+  )
+})
 
-export default Music;
+export default Music

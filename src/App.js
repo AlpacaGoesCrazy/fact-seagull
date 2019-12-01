@@ -1,6 +1,6 @@
-import React, { useState, useRef, useCallback } from 'react';
+import React, { useState, useRef, useCallback } from 'react'
 import Music from './components/Music'
-import './App.css';
+import './App.css'
 import img from './media/animation.gif'
 import darkness from './data/darkness.json'
 import facts from './data/facts.json'
@@ -38,7 +38,7 @@ function App() {
       <p className="Fact">{fact}</p>
       <Music/>
     </div>
-  );
+  )
 }
 
-export default App;
+export default App
